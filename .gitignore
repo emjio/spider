@@ -1,4 +1,5 @@
-build/
+build/*
 .idea/
-.spec
-.txt
+*.spec
+*.txt
+pic/*
